@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcab76a5-01a4-4410-b7f5-c17d3300577b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba2/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba2/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba2/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/main_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/handlers/order_handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/handlers/product_handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/integration_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/main_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/models/models.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/repository/db.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/repository/order_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/repository/product_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/service/order_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/service/product_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/service/product_service_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/README_lab5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/cmd/benchmark/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/cmd/csv_generator/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/cmd/import/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/handlers/order_handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/handlers/product_handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/integration_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/internal/csv/bulk_importer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/internal/csv/importer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/internal/csv/importer_bench_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/internal/csv/importer_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/main_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/models/models.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/repository/db.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/repository/order_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/repository/product_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/sample_orders.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/sample_products.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/service/order_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/service/product_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba5/service/product_service_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://F:/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2viScI7d5eWtGmTE7ctsXDqY6Un" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Go Build.go build Lab2-university-Satunin.executor": "Run",
+    "Go Build.go build order-management-api.executor": "Run",
+    "Go Test.TestNewOrder in Lab2-university-Satunin.executor": "Run",
+    "Go Test.TestNewProduct in Lab2-university-Satunin.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "C:/Users/Maksim/GolandProjects/Projects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager" selected="Go Build.go build order-management-api">
+    <configuration name="go build Lab2-university-Satunin" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <working_directory value="$PROJECT_DIR$/Laba3" />
+      <kind value="PACKAGE" />
+      <package value="Lab2-university-Satunin" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Laba3/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build order-management-api" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <working_directory value="$PROJECT_DIR$/Laba4" />
+      <kind value="PACKAGE" />
+      <package value="order-management-api" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Laba4/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNewOrder in Lab2-university-Satunin" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <working_directory value="$PROJECT_DIR$/Laba3" />
+      <kind value="PACKAGE" />
+      <package value="Lab2-university-Satunin" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestNewOrder\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNewProduct in Lab2-university-Satunin" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Projects" />
+      <working_directory value="$PROJECT_DIR$/Laba3" />
+      <kind value="PACKAGE" />
+      <package value="Lab2-university-Satunin" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestNewProduct\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build order-management-api" />
+        <item itemvalue="Go Test.TestNewOrder in Lab2-university-Satunin" />
+        <item itemvalue="Go Build.go build Lab2-university-Satunin" />
+        <item itemvalue="Go Test.TestNewProduct in Lab2-university-Satunin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-d297c17c1fbd-57c114c3cede-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-243.26053.20" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-GO-243.26053.20" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
