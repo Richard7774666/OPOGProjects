@@ -1,4 +1,4 @@
-module Lab2-university-Satunin
+module Lab2-university-Kholodov
 
 go 1.24.2
 
